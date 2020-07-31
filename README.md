@@ -2,16 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
-alskdflk;klc
-asdfkljalk;vjl;klcasdfklajsdlk;fjasldk;
+##Webiste COnteint
 
-
-### SOME MORE IPSUM...
-alskdflk;klc
-asdfkljalk;vjl;klcasdfklajsdlk;fjasldk;
-
-alskdflk;klc
-asdfkljalk;vjl;klcasdfklajsdlk;fjasldk;
-alskdflk;klc
-asdfkljalk;vjl;klcasdfklajsdlk;fjasldk;
+Has a just one index file.
